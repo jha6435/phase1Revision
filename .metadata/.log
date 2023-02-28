@@ -6280,3 +6280,186 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 12:06:23.114
 !MESSAGE Boot LS startup time from start to initialized: 18113ms
+
+!ENTRY org.eclipse.ui 2 2 2023-02-28 13:35:38.819
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:14.083
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:14.084
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@423b68ba[org.springframework.tooling.boot.ls:1.36.0.202206171137(id=1005)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:14.085
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:22.765
+!MESSAGE Boot LS startup time from start to initialized: 8678ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.653
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hodPUymeisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.657
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.660
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.662
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.662
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hodPUyme => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.664
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.673
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.674
+!MESSAGE buffering callback sts4.classpath.hodPUyme hacker2 false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.676
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.677
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.678
+!MESSAGE buffering callback sts4.classpath.hodPUyme JavaCollectionFramework false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.679
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.681
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.682
+!MESSAGE buffering callback sts4.classpath.hodPUyme LearnSerializationClass8 false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.682
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.684
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.685
+!MESSAGE buffering callback sts4.classpath.hodPUyme LeetCodepractice false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.687
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.688
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.690
+!MESSAGE buffering callback sts4.classpath.hodPUyme class1Revise false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.690
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.692
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.693
+!MESSAGE buffering callback sts4.classpath.hodPUyme class3Revision false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.694
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.695
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.696
+!MESSAGE buffering callback sts4.classpath.hodPUyme class5Revision false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.697
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.698
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.699
+!MESSAGE buffering callback sts4.classpath.hodPUyme class6 false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.700
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.702
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.703
+!MESSAGE buffering callback sts4.classpath.hodPUyme class7FileHandling false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.704
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.705
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.706
+!MESSAGE buffering callback sts4.classpath.hodPUyme hackerRankCodePractice false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.707
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.709
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.710
+!MESSAGE buffering callback sts4.classpath.hodPUyme multithereading false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.710
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.712
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.713
+!MESSAGE buffering callback sts4.classpath.hodPUyme myproject1 false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.714
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.715
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.716
+!MESSAGE buffering callback sts4.classpath.hodPUyme vidyamantra_interview false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:23.716
+!MESSAGE executing callback sts4.classpath.hodPUyme 13 batched events
+
+!ENTRY org.eclipse.lsp4e 4 0 2023-02-28 13:36:25.064
+!MESSAGE TimeoutException
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.asJavaProposals(LSJavaCompletionProposalComputer.java:87)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.computeCompletionProposals(LSJavaCompletionProposalComputer.java:55)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:348)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:340)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:289)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:36:25.619
+!MESSAGE executing callback sts4.classpath.hodPUyme SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:38:25.151
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hodPUyme
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:38:25.152
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.hodPUyme
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:38:25.153
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-28 13:38:25.154
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hodPUyme => OK
