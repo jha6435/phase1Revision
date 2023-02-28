@@ -1,0 +1,19 @@
+package class5Revision;
+
+public class Demo7 extends Demo6 {
+	
+	
+	public static void sayGm() {
+		System.out.println("subh prahat bhaiyaji overriden");
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		sayHi();
+		sayHello();
+
+	}
+
+}

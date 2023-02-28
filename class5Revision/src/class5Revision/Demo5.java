@@ -1,0 +1,28 @@
+package class5Revision;
+
+public class Demo5 {
+// method overloading example
+	
+	public static int add(int a, int b) {
+		return a+b;
+	}
+	
+	public static int  add(int a, int b, int c) {
+		return a+b+c;
+	}
+	
+	public static int add(int a, int b, int c, int d) {
+		return a+b+c+d;
+	}
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+				
+System.out.println("printing static method 	" +Demo5.add(9, 23, 12,12));
+		
+		
+	}
+
+}

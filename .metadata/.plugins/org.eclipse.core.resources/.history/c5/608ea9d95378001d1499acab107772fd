@@ -1,0 +1,20 @@
+package class5Revision;
+
+public class Demo7 extends Demo6 {
+	
+	
+	
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		
+		Demo6 g= new Demo6();
+		g.sayGm();
+		
+
+	}
+
+}
