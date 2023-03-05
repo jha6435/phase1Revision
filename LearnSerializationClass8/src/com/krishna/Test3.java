@@ -1,6 +1,5 @@
 package com.krishna;
 
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
@@ -26,7 +25,7 @@ public class Test3 {
 		ObjectOutputStream out=new ObjectOutputStream(fout);	
 		out.writeObject(emp);
 		System.out.println("serialization complete");
-		
+		out.close();
 		
 		
 	}
