@@ -8,9 +8,9 @@ import java.io.IOException;
 public class FileHandling {
 
 	public static void main(String[] args) throws IOException {
-	// for read line by line we use FileReader
+	// reading character by character
 		
-		File f = new File("D:\\forFileReaderdemoPh1\\abc.txt");
+		File f = new File("D:\\forFileReader demo Ph1\\abc.txt");
 		
 	FileReader fr = new FileReader(f);
 		 

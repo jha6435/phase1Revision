@@ -7,9 +7,6 @@
     <fullyQualifiedTypeName name="com.simplilearn.AbstractionAndInterference.Demo1.Cognizant"/>
     <fullyQualifiedTypeName name="com.simplilearn.AbstractionAndInterference.Microsoft"/>
     <fullyQualifiedTypeName name="com.simplilearn.AbstractionAndInterference.Salary"/>
-    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
-    <fullyQualifiedTypeName name="java.io.File"/>
-    <fullyQualifiedTypeName name="java.io.FileReader"/>
     <fullyQualifiedTypeName name="com.demo.myproject.Parent"/>
     <fullyQualifiedTypeName name="java.util.Stack"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
@@ -26,14 +23,12 @@
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="com.krishna.RomanNumberConverter"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.krishna.LearnConstructor"/>
     <fullyQualifiedTypeName name="com.krishna.Box"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="com.krishna.Customer"/>
     <fullyQualifiedTypeName name="com.krishna.Employee"/>
     <fullyQualifiedTypeName name="com.krishna.Test2.Employee"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.io.Serializable"/>
     <fullyQualifiedTypeName name="com.krishna.Student"/>
     <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
@@ -43,4 +38,12 @@
     <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
     <fullyQualifiedTypeName name="com.krishna.FactorialOfANo"/>
     <fullyQualifiedTypeName name="com.krishna.MyClass"/>
+    <fullyQualifiedTypeName name="com.video.linkedlist.SinglyLinkedList"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.selflearning.CreateTableReturnWay"/>
+    <fullyQualifiedTypeName name="com.selflearning.FindFactorial"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

@@ -13,7 +13,7 @@ public class ReadlLinebyLine {
 		
 	// to read data line by line we use BufferReader	
 		
-		File f = new File("D:\\forFileReaderdemoPh1\\score.txt");
+		File f = new File("D:\\forFileReader demo Ph1\\score.txt");
 		FileReader fr = new FileReader(f);
 		BufferedReader br = new BufferedReader(fr);
 		
